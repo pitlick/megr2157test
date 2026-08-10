@@ -1,0 +1,27 @@
+site_name: MEGR 2157 – Design Portfolio
+site_description: Design portfolio documentation, built with the Analyze / Decide / Communicate framework
+
+theme:
+  name: material
+  palette:
+    primary: green
+  features:
+    - navigation.instant
+    - navigation.tracking
+
+nav:
+  - Home: index.md
+  - About Me: aboutmet/index.md
+  - Portfolio Overview: portfolio-overview.md
+  - Assignments:
+      - A1: assignments/a1/index.md
+      - A2: assignments/a2/index.md
+      - A3: assignments/a3/index.md
+      - A4: assignments/a4/index.md
+      - A5: assignments/a5/index.md
+      - A6: assignments/a6/index.md
+      - A7: assignments/a7/index.md
+      - A8: assignments/a8/index.md
+      - A9: assignments/a9/index.md
+      - Concept Selection – Pugh Matrix: assignments/a9x-concept-selection/index.md
+      - A10: assignments/a10/index.md
