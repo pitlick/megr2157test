@@ -11,3 +11,8 @@ I am going to complete it
 
 ## Communicate
 it is finished now
+
+
+
+Also here is my resume (I am about to change a lot of it right after this is done)
+![resume](1.jpg)
