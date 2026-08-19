@@ -10,11 +10,11 @@ It doesn't look like its completed
 I am going to complete it
 
 ## Task A 
-**1.** [Viewing Zachlq's Professional_Portfolio](https://github.com/Zachlq/Professional_Portfolio/tree/main)
-    - **a.** — Navigability: Yes, as a reader, I am able to locate a specific assignment or piece of work in under 60 seconds. Work is under Dashboards.
-    - **b.** — Reproducibility: The documentation does not contain enough information for a colleague to reproduce the work without asking questions. Documentation of his work is in .png files, but it does show enough context and visuals. Since the person is a data engineer, the majority of his work is charts and graphs. 
-    - **c.** — Evidence of reasoning: The portfolio only shows what the final answer was. This being a data engineer portfolio, the sources of his data are hard to find besides the websites he has used at the bottom. 
-    - **d.** — Professional tone: Yes, the language meets the standard of a document you would hand to an employer. The audience would be other data engineers or employers at TED Talk, and the vocabulary does fit. The purpose of the graphics would be to concisely explain how the company is benefiting from the member campaign. The data is measured through surveys and analytics from websites listed below the graphics.
+[**1.** Viewing Zachlq's Professional_Portfolio](https://github.com/Zachlq/Professional_Portfolio/tree/main)
+- **a.** — Navigability: Yes, as a reader, I am able to locate a specific assignment or piece of work in under 60 seconds. Work is under Dashboards.
+- **b.** — Reproducibility: The documentation does not contain enough information for a colleague to reproduce the work without asking questions. Documentation of his work is in .png files, but it does show enough context and visuals. Since the person is a data engineer, the majority of his work is charts and graphs. 
+- **c.** — Evidence of reasoning: The portfolio only shows what the final answer was. This being a data engineer portfolio, the sources of his data are hard to find besides the websites he has used at the bottom. 
+- **d.** — Professional tone: Yes, the language meets the standard of a document you would hand to an employer. The audience would be other data engineers or employers at TED Talk, and the vocabulary does fit. The purpose of the graphics would be to concisely explain how the company is benefiting from the member campaign. The data is measured through surveys and analytics from websites listed below the graphics.
 
 **2.** [Viewing Thanh Tran's Professional Portfolio](https://thanhvtran.com/)
 - **a.** — Navigability: Yes, as a reader, I can locate all assignments and works this person has made in under 60 seconds. Work is under its own hyperlink and section. Work is also divided into categories of Internships, Personal, and Student Teams.
